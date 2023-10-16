@@ -1,8 +1,8 @@
+import 'package:camera/screens/home.dart';
 import 'package:flutter/material.dart';
-import 'package:qrcode/screens/home.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
